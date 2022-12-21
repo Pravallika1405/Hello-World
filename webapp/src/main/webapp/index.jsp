@@ -4,7 +4,7 @@
 
 <h1> 1st Project CICD </h1>
 
-<h1> 2nd Project </h1>
+<h1> 2nd Project kubernetes </h1>
 
 
 
